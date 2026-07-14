@@ -14,7 +14,7 @@ for (const feed of feeds) {
   try {
     const result = await parser.parseURL(feed);
 
-    const items = result.items.slice(0, 10).map(item => ({
+    const items = result.items.slice(0, 30).map(item => ({
       title: item.title,
       link: item.link,
       source: result.title,
