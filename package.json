@@ -1,0 +1,13 @@
+{
+  "name": "news-dashboard",
+  "version": "1.0.0",
+  "description": "Static news dashboard updated with GitHub Actions",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
