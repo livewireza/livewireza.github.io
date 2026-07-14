@@ -1,6 +1,6 @@
 async function loadNews() {
 
-    const response = await fetch("../data/news.json");
+    const response = await fetch("./data/news.json");
     const news = await response.json();
 
     const container = document.getElementById("news");
