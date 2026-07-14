@@ -4,9 +4,8 @@ import fs from "fs";
 const parser = new Parser();
 
 const feeds = [
-  "https://feeds.bbci.co.uk/news/rss.xml",
-  "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-  "https://www.theguardian.com/world/rss"
+  "https://tweakers.net/feeds/nieuws.xml",
+  "https://hnrss.org/frontpage"  
 ];
 
 let articles = [];
