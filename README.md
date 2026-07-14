@@ -4,7 +4,7 @@ A static news dashboard powered by GitHub Actions.
 
 ## Features
 
-- Pulls RSS feeds every 30 minutes
+- Pulls RSS feeds every day
 - Stores data as JSON
 - Hosted on GitHub Pages
 - No backend required
