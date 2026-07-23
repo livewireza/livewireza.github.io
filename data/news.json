@@ -1,62 +1,62 @@
 [
   {
-    "title": "Late.sh – a command-line Clubhouse for computer people",
-    "link": "https://late.sh/",
+    "title": "Restructuring GitHub's bug bounty program",
+    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 22 Jul 2026 02:32:30 +0000"
+    "published": "Thu, 23 Jul 2026 02:28:23 +0000"
   },
   {
-    "title": "LG to ban residential proxies from smart TV apps",
-    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+    "link": "https://arxiv.org/abs/2607.20386",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 22 Jul 2026 01:52:31 +0000"
+    "published": "Thu, 23 Jul 2026 01:58:18 +0000"
   },
   {
-    "title": "Ten Steps Towards Happiness (2015)",
-    "link": "http://hintjens.com/blog:99",
+    "title": "Petals: Run LLMs at home, BitTorrent-style",
+    "link": "https://petals.dev/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 22 Jul 2026 01:17:26 +0000"
+    "published": "Thu, 23 Jul 2026 01:33:12 +0000"
   },
   {
-    "title": "A flaky test exposed a Redis client use-after-free",
-    "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+    "title": "Codeberg Bans Cryptocurrency Projects",
+    "link": "https://codeberg.org/Codeberg/org/pulls/1254",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 22 Jul 2026 00:27:35 +0000"
+    "published": "Thu, 23 Jul 2026 01:06:56 +0000"
   },
   {
-    "title": "It's a shame what's happened to radio",
-    "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+    "title": "Medici family mystery may be solved after more than 400 years",
+    "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 23:33:31 +0000"
+    "published": "Wed, 22 Jul 2026 21:55:34 +0000"
   },
   {
-    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "link": "https://fireworks.ai/blog/kimik3-fable",
+    "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+    "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 22:35:24 +0000"
+    "published": "Wed, 22 Jul 2026 21:54:30 +0000"
   },
   {
-    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-    "link": "https://www.getcomputable.com/",
+    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+    "link": "https://claytondorge.com/patterns-list",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 21:48:19 +0000"
+    "published": "Wed, 22 Jul 2026 21:48:44 +0000"
   },
   {
-    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "title": "Malleable Computing, Emacs, and You",
+    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 21:27:54 +0000"
+    "published": "Wed, 22 Jul 2026 21:15:26 +0000"
   },
   {
-    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-    "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 21:13:20 +0000"
+    "published": "Wed, 22 Jul 2026 20:16:01 +0000"
   },
   {
-    "title": "A digestion of the Jacobian conjecture counterexample",
-    "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "title": "John C. Dvorak has died",
+    "link": "https://twitter.com/na_announce/status/2079952538040672302",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 21 Jul 2026 21:09:25 +0000"
+    "published": "Wed, 22 Jul 2026 19:22:19 +0000"
   }
 ]
