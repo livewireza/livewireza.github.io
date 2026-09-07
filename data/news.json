@@ -1,62 +1,62 @@
 [
   {
-    "title": "AMD Based FreeBSD Desktop Reloaded",
-    "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+    "link": "https://github.com/timgordontg/engrim",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 06 Sep 2026 02:24:57 +0000"
+    "published": "Mon, 07 Sep 2026 04:49:36 +0000"
   },
   {
-    "title": "AI, Tools and Transformation",
-    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "title": "TiVo to charge money for skipping commercials in your own recordings",
+    "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 06 Sep 2026 02:12:46 +0000"
+    "published": "Mon, 07 Sep 2026 04:41:01 +0000"
   },
   {
-    "title": "GPT-6 Astra on robot arms",
-    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "title": "I refused to train the AI that could replace me",
+    "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 06 Sep 2026 01:52:45 +0000"
+    "published": "Mon, 07 Sep 2026 04:38:22 +0000"
   },
   {
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "link": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+    "link": "https://github.com/trailofbits/coop",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 06 Sep 2026 00:03:29 +0000"
+    "published": "Mon, 07 Sep 2026 04:18:28 +0000"
   },
   {
-    "title": "Chrome again exempts Google from user site data settings",
-    "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "title": "Keep Our Servers Running",
+    "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 23:39:47 +0000"
+    "published": "Mon, 07 Sep 2026 03:29:51 +0000"
   },
   {
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+    "link": "https://rfd.shared.oxide.computer/rfd/0301",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 22:15:52 +0000"
+    "published": "Mon, 07 Sep 2026 02:14:59 +0000"
   },
   {
-    "title": "The revolt of the reader",
-    "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+    "link": "https://gettogether.dev",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 21:37:49 +0000"
+    "published": "Mon, 07 Sep 2026 01:41:11 +0000"
   },
   {
-    "title": "Private German rocket makes history, reaches orbit from European soil",
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "link": "https://austinhenley.com/blog/python1024.html",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 20:31:38 +0000"
+    "published": "Sun, 06 Sep 2026 23:14:08 +0000"
   },
   {
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-    "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "title": "Is mathematics about to enter the conservatory?",
+    "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 20:25:59 +0000"
+    "published": "Sun, 06 Sep 2026 23:02:11 +0000"
   },
   {
-    "title": "LLMs as a Cognitive Virus",
-    "link": "https://arxiv.org/abs/2609.03344",
+    "title": "Signing TLS handshakes inside a TPM",
+    "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 05 Sep 2026 20:02:35 +0000"
+    "published": "Sun, 06 Sep 2026 21:05:21 +0000"
   }
 ]
