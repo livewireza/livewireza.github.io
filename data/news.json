@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+    "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+    "source": "Hacker News: Front Page",
+    "published": "Sun, 11 Oct 2026 03:21:07 +0000"
+  },
+  {
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source": "Hacker News: Front Page",
+    "published": "Sun, 11 Oct 2026 02:02:38 +0000"
+  },
+  {
+    "title": "PSPi 6 – Raspberry Pi in a PSP",
+    "link": "https://github.com/othermod/PSPi-Version-6",
+    "source": "Hacker News: Front Page",
+    "published": "Sun, 11 Oct 2026 00:45:49 +0000"
+  },
+  {
+    "title": "Build your own decision model",
+    "link": "https://nishtahir.com/build-your-own-decision-model/",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 22:50:10 +0000"
+  },
+  {
+    "title": "A city-building game in which the city would prefer you didn't",
+    "link": "https://housing.over.pizza/",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 20:31:50 +0000"
+  },
+  {
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 18:48:35 +0000"
+  },
+  {
+    "title": "Knuth reward check",
+    "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 15:47:01 +0000"
+  },
+  {
+    "title": "Unikernels were hard. key word: were",
+    "link": "https://ghuntley.com/unikernels/",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 14:27:09 +0000"
+  },
+  {
+    "title": "I would like the value of my home to rise, while my property taxes fall",
+    "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 13:29:03 +0000"
+  },
+  {
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "link": "https://github.com/rociiu/talorys",
+    "source": "Hacker News: Front Page",
+    "published": "Sat, 10 Oct 2026 10:52:09 +0000"
+  }
+]
