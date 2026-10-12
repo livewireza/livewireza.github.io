@@ -1,62 +1,62 @@
 [
   {
-    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-    "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+    "title": "Postgres isn't slow, your storage is",
+    "link": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 11 Oct 2026 03:21:07 +0000"
+    "published": "Mon, 12 Oct 2026 06:36:53 +0000"
   },
   {
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+    "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 11 Oct 2026 02:02:38 +0000"
+    "published": "Mon, 12 Oct 2026 05:03:47 +0000"
   },
   {
-    "title": "PSPi 6 – Raspberry Pi in a PSP",
-    "link": "https://github.com/othermod/PSPi-Version-6",
+    "title": "Type-safe HTML templating in Zig",
+    "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
     "source": "Hacker News: Front Page",
-    "published": "Sun, 11 Oct 2026 00:45:49 +0000"
+    "published": "Mon, 12 Oct 2026 05:02:34 +0000"
   },
   {
-    "title": "Build your own decision model",
-    "link": "https://nishtahir.com/build-your-own-decision-model/",
+    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+    "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 22:50:10 +0000"
+    "published": "Mon, 12 Oct 2026 04:54:00 +0000"
   },
   {
-    "title": "A city-building game in which the city would prefer you didn't",
-    "link": "https://housing.over.pizza/",
+    "title": "Crest – an Arc-inspired open-source browser for Mac",
+    "link": "https://crestbrowser.com/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 20:31:50 +0000"
+    "published": "Mon, 12 Oct 2026 03:37:09 +0000"
   },
   {
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "title": "Doory – Open-Source Canva",
+    "link": "https://github.com/shaongitbd/doory",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 18:48:35 +0000"
+    "published": "Mon, 12 Oct 2026 00:48:27 +0000"
   },
   {
-    "title": "Knuth reward check",
-    "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "link": "https://github.com/SaarthurR/atticus-mac",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 15:47:01 +0000"
+    "published": "Mon, 12 Oct 2026 00:15:12 +0000"
   },
   {
-    "title": "Unikernels were hard. key word: were",
-    "link": "https://ghuntley.com/unikernels/",
+    "title": "Local Indexing to reduce tool calling and token usage",
+    "link": "https://tedhaley.ca/pensieve/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 14:27:09 +0000"
+    "published": "Mon, 12 Oct 2026 00:03:53 +0000"
   },
   {
-    "title": "I would like the value of my home to rise, while my property taxes fall",
-    "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "title": "Whatever became of holography? (2011)",
+    "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 13:29:03 +0000"
+    "published": "Sun, 11 Oct 2026 23:50:34 +0000"
   },
   {
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "link": "https://github.com/rociiu/talorys",
+    "title": "Illustration Beyond Proof",
+    "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 10 Oct 2026 10:52:09 +0000"
+    "published": "Sun, 11 Oct 2026 23:22:36 +0000"
   }
 ]
