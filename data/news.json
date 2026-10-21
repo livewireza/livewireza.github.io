@@ -1,62 +1,62 @@
 [
   {
-    "title": "Vite+ an excellent toolchain for AI agent development",
-    "link": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "link": "https://alterauth.com/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 06:40:49 +0000"
+    "published": "Wed, 21 Oct 2026 06:42:12 +0000"
   },
   {
-    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "link": "https://deathplanswitch.com/",
+    "title": "Pillowfort Is Closing",
+    "link": "https://www.pillowfort.social/posts/8413273",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 04:37:43 +0000"
+    "published": "Wed, 21 Oct 2026 05:05:37 +0000"
   },
   {
-    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-    "link": "https://github.com/golang/go/issues/82345",
+    "title": "Battlezone Online: BZFlag in the Browser",
+    "link": "https://github.com/timriker/bzo",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 03:05:07 +0000"
+    "published": "Wed, 21 Oct 2026 05:05:19 +0000"
   },
   {
-    "title": "OpenBSD 8.0",
-    "link": "https://www.openbsd.org/80.html",
+    "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+    "link": "https://github.com/xamrayev/nexus-cli",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 02:06:40 +0000"
+    "published": "Wed, 21 Oct 2026 04:37:18 +0000"
   },
   {
-    "title": "Developing Taste",
-    "link": "https://emilkowal.ski/ui/developing-taste",
+    "title": "Setting Up SSH Keys on macOS with Touch ID",
+    "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 01:12:03 +0000"
+    "published": "Wed, 21 Oct 2026 03:51:25 +0000"
   },
   {
-    "title": "France's supermarket fridges were vulnerable online for months",
-    "link": "https://ipinfo.io/blog/france-fridges-hack",
+    "title": "Using Claude to reduce the attack surface of code",
+    "link": "https://www.anthropic.com/research/attack-surface-reduction",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 20 Oct 2026 00:00:49 +0000"
+    "published": "Wed, 21 Oct 2026 03:36:43 +0000"
   },
   {
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "title": "In Hilbert space, all things are quantumly possible",
+    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 19 Oct 2026 23:22:18 +0000"
+    "published": "Wed, 21 Oct 2026 02:04:15 +0000"
   },
   {
-    "title": "How abliterated models can get you pwned",
-    "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "title": "The Future of CSS",
+    "link": "https://www.joshwcomeau.com/css/interop-2027/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 19 Oct 2026 23:08:52 +0000"
+    "published": "Wed, 21 Oct 2026 01:47:28 +0000"
   },
   {
-    "title": "An ad-free Android TV",
-    "link": "https://cretezy.com/2026/ad-free-android-tv",
+    "title": "Good type against all odds",
+    "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 19 Oct 2026 22:32:37 +0000"
+    "published": "Wed, 21 Oct 2026 01:45:07 +0000"
   },
   {
-    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "link": "https://bsd.network/@brynet/117407035545900963",
+    "title": "Muse exposes users' personal and business secrets when they share conversations",
+    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 19 Oct 2026 21:11:45 +0000"
+    "published": "Wed, 21 Oct 2026 00:45:59 +0000"
   }
 ]
