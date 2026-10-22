@@ -1,62 +1,62 @@
 [
   {
-    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "link": "https://alterauth.com/",
+    "title": "OpenAI CLI",
+    "link": "https://github.com/openai/openai-cli",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 06:42:12 +0000"
+    "published": "Thu, 22 Oct 2026 05:23:11 +0000"
   },
   {
-    "title": "Pillowfort Is Closing",
-    "link": "https://www.pillowfort.social/posts/8413273",
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 05:05:37 +0000"
+    "published": "Thu, 22 Oct 2026 02:30:52 +0000"
   },
   {
-    "title": "Battlezone Online: BZFlag in the Browser",
-    "link": "https://github.com/timriker/bzo",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "link": "https://simedw.com/2026/10/21/world-model-terminal/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 05:05:19 +0000"
+    "published": "Thu, 22 Oct 2026 02:18:41 +0000"
   },
   {
-    "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-    "link": "https://github.com/xamrayev/nexus-cli",
+    "title": "mitmproxy adds --emudhra option",
+    "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 04:37:18 +0000"
+    "published": "Wed, 21 Oct 2026 23:51:37 +0000"
   },
   {
-    "title": "Setting Up SSH Keys on macOS with Touch ID",
-    "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "link": "https://eliastaylor.com/noexploit/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 03:51:25 +0000"
+    "published": "Wed, 21 Oct 2026 23:13:27 +0000"
   },
   {
-    "title": "Using Claude to reduce the attack surface of code",
-    "link": "https://www.anthropic.com/research/attack-surface-reduction",
+    "title": "Postgres recovery_prefetch can cause outages",
+    "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 03:36:43 +0000"
+    "published": "Wed, 21 Oct 2026 22:33:08 +0000"
   },
   {
-    "title": "In Hilbert space, all things are quantumly possible",
-    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "title": "Security Disclosure",
+    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 02:04:15 +0000"
+    "published": "Wed, 21 Oct 2026 21:58:03 +0000"
   },
   {
-    "title": "The Future of CSS",
-    "link": "https://www.joshwcomeau.com/css/interop-2027/",
+    "title": "Rust Style Guide",
+    "link": "https://google.github.io/styleguide/rustguide.html",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 01:47:28 +0000"
+    "published": "Wed, 21 Oct 2026 19:11:57 +0000"
   },
   {
-    "title": "Good type against all odds",
-    "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "title": "GitLab critical patch release",
+    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 01:45:07 +0000"
+    "published": "Wed, 21 Oct 2026 19:01:12 +0000"
   },
   {
-    "title": "Muse exposes users' personal and business secrets when they share conversations",
-    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 00:45:59 +0000"
+    "published": "Wed, 21 Oct 2026 17:45:13 +0000"
   }
 ]
