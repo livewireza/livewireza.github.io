@@ -1,62 +1,62 @@
 [
   {
-    "title": "OpenAI CLI",
-    "link": "https://github.com/openai/openai-cli",
+    "title": "This I Believe (1952)",
+    "link": "https://www.awakin.org/v2/read/view.php?tid=468",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 05:23:11 +0000"
+    "published": "Fri, 23 Oct 2026 02:19:38 +0000"
   },
   {
-    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 02:30:52 +0000"
+    "published": "Fri, 23 Oct 2026 00:52:01 +0000"
   },
   {
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "link": "https://github.com/anubhavmalhotra/r2d2-tv",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 02:18:41 +0000"
+    "published": "Fri, 23 Oct 2026 00:10:45 +0000"
   },
   {
-    "title": "mitmproxy adds --emudhra option",
-    "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "title": "Jank – The native Clojure dialect with seamless C++ interop",
+    "link": "https://jank-lang.org/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 23:51:37 +0000"
+    "published": "Thu, 22 Oct 2026 23:56:36 +0000"
   },
   {
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "link": "https://eliastaylor.com/noexploit/",
+    "title": "Docker is weird",
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 23:13:27 +0000"
+    "published": "Thu, 22 Oct 2026 23:45:56 +0000"
   },
   {
-    "title": "Postgres recovery_prefetch can cause outages",
-    "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+    "title": "We have traits at home",
+    "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 22:33:08 +0000"
+    "published": "Thu, 22 Oct 2026 23:24:17 +0000"
   },
   {
-    "title": "Security Disclosure",
-    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "link": "https://edjefferson.com/localwiki/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 21:58:03 +0000"
+    "published": "Thu, 22 Oct 2026 23:01:18 +0000"
   },
   {
-    "title": "Rust Style Guide",
-    "link": "https://google.github.io/styleguide/rustguide.html",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "link": "https://www.anthropic.com/research/formal-verification",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 19:11:57 +0000"
+    "published": "Thu, 22 Oct 2026 22:54:43 +0000"
   },
   {
-    "title": "GitLab critical patch release",
-    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "title": "Rule 30: one black cell",
+    "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 19:01:12 +0000"
+    "published": "Thu, 22 Oct 2026 22:16:48 +0000"
   },
   {
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "title": "Railpass",
+    "link": "https://train.samismith.com/",
     "source": "Hacker News: Front Page",
-    "published": "Wed, 21 Oct 2026 17:45:13 +0000"
+    "published": "Thu, 22 Oct 2026 21:38:32 +0000"
   }
 ]
