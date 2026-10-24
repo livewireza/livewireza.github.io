@@ -1,62 +1,62 @@
 [
   {
-    "title": "This I Believe (1952)",
-    "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "title": "OBS Studio 33",
+    "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 23 Oct 2026 02:19:38 +0000"
+    "published": "Sat, 24 Oct 2026 04:49:58 +0000"
   },
   {
-    "title": "The foolishness of \"natural language programming\" (1978)",
-    "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "title": "How close can pure functional programming get to C?",
+    "link": "https://rtfeldman.com/fp-vs-c",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 23 Oct 2026 00:52:01 +0000"
+    "published": "Sat, 24 Oct 2026 03:43:54 +0000"
   },
   {
-    "title": "Show HN: Making a smart TV dumb and then smart",
-    "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "title": "How Block Blast harvests its players for ad money",
+    "link": "https://ayoships.com/breakdowns/block-blast",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 23 Oct 2026 00:10:45 +0000"
+    "published": "Sat, 24 Oct 2026 02:43:43 +0000"
   },
   {
-    "title": "Jank – The native Clojure dialect with seamless C++ interop",
-    "link": "https://jank-lang.org/",
+    "title": "Apple Security Research Device",
+    "link": "https://security.apple.com/research-device/",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 23:56:36 +0000"
+    "published": "Sat, 24 Oct 2026 02:36:38 +0000"
   },
   {
-    "title": "Docker is weird",
-    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 23:45:56 +0000"
+    "published": "Sat, 24 Oct 2026 01:53:10 +0000"
   },
   {
-    "title": "We have traits at home",
-    "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+    "title": "Twelve years of distributed SQLite",
+    "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 23:24:17 +0000"
+    "published": "Sat, 24 Oct 2026 01:16:58 +0000"
   },
   {
-    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "link": "https://edjefferson.com/localwiki/",
+    "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+    "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 23:01:18 +0000"
+    "published": "Fri, 23 Oct 2026 23:30:17 +0000"
   },
   {
-    "title": "LLMs are making formal software verification feasible at a much larger scale",
-    "link": "https://www.anthropic.com/research/formal-verification",
+    "title": "One Man's Pan Am 747 Replica [video]",
+    "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 22:54:43 +0000"
+    "published": "Fri, 23 Oct 2026 21:46:51 +0000"
   },
   {
-    "title": "Rule 30: one black cell",
-    "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
+    "title": "CVE Tracker",
+    "link": "https://cve.0xosprey.com/",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 22:16:48 +0000"
+    "published": "Fri, 23 Oct 2026 21:21:47 +0000"
   },
   {
-    "title": "Railpass",
-    "link": "https://train.samismith.com/",
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "link": "https://corgi.computer/",
     "source": "Hacker News: Front Page",
-    "published": "Thu, 22 Oct 2026 21:38:32 +0000"
+    "published": "Fri, 23 Oct 2026 19:46:38 +0000"
   }
 ]
