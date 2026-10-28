@@ -1,62 +1,62 @@
 [
   {
-    "title": "Writing about pratt parsing so I remember it",
-    "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "title": "Artificial Analysis Intelligence Index v5",
+    "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 27 Oct 2026 06:02:23 +0000"
+    "published": "Wed, 28 Oct 2026 03:06:22 +0000"
   },
   {
-    "title": "UK to charge universities $1,200 per international student",
-    "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+    "title": "Git for the US Code",
+    "link": "https://lexifina.com/blog/git-for-the-us-code",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 27 Oct 2026 05:13:08 +0000"
+    "published": "Wed, 28 Oct 2026 01:47:50 +0000"
   },
   {
-    "title": "I still teach OpenGL ES 3.0",
-    "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+    "link": "https://github.com/maharmstone/moxnox",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 27 Oct 2026 02:15:10 +0000"
+    "published": "Tue, 27 Oct 2026 23:53:41 +0000"
   },
   {
-    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "link": "https://github.com/otya128/winevdm",
+    "title": "Hunger beats tenure: Advice for junior engineers",
+    "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 27 Oct 2026 01:15:04 +0000"
+    "published": "Tue, 27 Oct 2026 22:25:23 +0000"
   },
   {
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "title": "Early progress on accelerating drug development with Claude",
+    "link": "https://www.anthropic.com/research/early-progress-drug-development",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 22:41:48 +0000"
+    "published": "Tue, 27 Oct 2026 20:50:42 +0000"
   },
   {
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 21:59:15 +0000"
+    "published": "Tue, 27 Oct 2026 20:48:49 +0000"
   },
   {
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 21:35:28 +0000"
+    "published": "Tue, 27 Oct 2026 20:35:09 +0000"
   },
   {
-    "title": "Type Server Protocol",
-    "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "title": "Four Months of Zig",
+    "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 18:14:49 +0000"
+    "published": "Tue, 27 Oct 2026 20:13:27 +0000"
   },
   {
-    "title": "GPT-6.1 Terra",
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "link": "https://tailscale.com/ssh-investigation-update",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 18:01:17 +0000"
+    "published": "Tue, 27 Oct 2026 19:55:21 +0000"
   },
   {
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "link": "https://www.brangus.io/survival-llm",
     "source": "Hacker News: Front Page",
-    "published": "Mon, 26 Oct 2026 17:56:55 +0000"
+    "published": "Tue, 27 Oct 2026 19:55:06 +0000"
   }
 ]
