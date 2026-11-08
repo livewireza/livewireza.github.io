@@ -1,62 +1,62 @@
 [
   {
-    "title": "The Components of Agent Memory",
-    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 07 Nov 2026 06:39:04 +0000"
+    "published": "Sun, 08 Nov 2026 04:14:12 +0000"
   },
   {
-    "title": "Asahi Linux Progress Linux 7.3",
-    "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+    "link": "https://github.com/AmSach/maple",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 07 Nov 2026 05:20:18 +0000"
+    "published": "Sun, 08 Nov 2026 03:48:04 +0000"
   },
   {
-    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-    "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "link": "https://github.com/dmunozv04/isponsorblocktv",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 07 Nov 2026 04:54:36 +0000"
+    "published": "Sun, 08 Nov 2026 03:47:19 +0000"
   },
   {
-    "title": "I toured Unitree's factory. I'm more bullish on the West",
-    "link": "https://josef.cn/blog/unitree",
+    "title": "Goodbye Claude, Hello Pi",
+    "link": "https://caleb.software/posts/claude-to-pi.html",
     "source": "Hacker News: Front Page",
-    "published": "Sat, 07 Nov 2026 01:05:16 +0000"
+    "published": "Sun, 08 Nov 2026 03:11:48 +0000"
   },
   {
-    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-    "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 23:37:19 +0000"
+    "published": "Sun, 08 Nov 2026 02:02:38 +0000"
   },
   {
-    "title": "Libghostty 1.0",
-    "link": "https://mitchellh.com/writing/libghostty-1-0",
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "link": "https://github.com/crmne/zapfast",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 23:30:52 +0000"
+    "published": "Sun, 08 Nov 2026 02:02:27 +0000"
   },
   {
-    "title": "Sodium-ion batteries approach cost parity with LFP",
-    "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "title": "Commodore PET – The Worlds First Personal Computer",
+    "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 23:00:46 +0000"
+    "published": "Sat, 07 Nov 2026 23:15:34 +0000"
   },
   {
-    "title": "AI is dramatically accelerating AI research",
-    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "title": "GitHub New pull request overview page in public preview",
+    "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 20:27:23 +0000"
+    "published": "Sat, 07 Nov 2026 23:09:40 +0000"
   },
   {
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "title": "Making any integer with four 2s (2025)",
+    "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 20:09:14 +0000"
+    "published": "Sat, 07 Nov 2026 22:38:58 +0000"
   },
   {
-    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "source": "Hacker News: Front Page",
-    "published": "Fri, 06 Nov 2026 19:48:51 +0000"
+    "published": "Sat, 07 Nov 2026 20:45:32 +0000"
   }
 ]
