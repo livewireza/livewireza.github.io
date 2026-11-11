@@ -1,62 +1,62 @@
 [
   {
-    "title": "M John Harrison becomes first science fiction author to win the Booker prize",
-    "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "link": "https://github.com/gmkurtzer/ginux",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 07:40:52 +0000"
+    "published": "Wed, 11 Nov 2026 05:25:54 +0000"
   },
   {
-    "title": "Fireworks AI security breach impacts Notion and their customers",
-    "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 07:19:38 +0000"
+    "published": "Wed, 11 Nov 2026 04:28:57 +0000"
   },
   {
-    "title": "ClickHouse Acquires Xata",
-    "link": "https://xata.io/blog/xata-is-joining-clickhouse",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 06:14:51 +0000"
+    "published": "Wed, 11 Nov 2026 02:57:08 +0000"
   },
   {
-    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-    "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "title": "Hooked on Tuna",
+    "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 06:01:08 +0000"
+    "published": "Wed, 11 Nov 2026 02:23:25 +0000"
   },
   {
-    "title": "Your TV can see through walls",
-    "link": "https://maurycyz.com/projects/fading/",
+    "title": "A great old-timey game-programming hack (2013)",
+    "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 05:24:45 +0000"
+    "published": "Wed, 11 Nov 2026 01:56:31 +0000"
   },
   {
-    "title": "Ultorg: The User Interface for Relational Databases",
-    "link": "https://www.ultorg.com/",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "link": "https://tis-100.wincon.dev/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 03:59:39 +0000"
+    "published": "Wed, 11 Nov 2026 00:37:05 +0000"
   },
   {
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "title": "Tracking Anthropic-discovered vulnerabilities",
+    "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 03:20:06 +0000"
+    "published": "Tue, 10 Nov 2026 22:17:56 +0000"
   },
   {
-    "title": "Formalizing CPython",
-    "link": "https://broyojo.com/python-formalization/",
+    "title": "$30M Raised to Redo the CPU",
+    "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 01:56:48 +0000"
+    "published": "Tue, 10 Nov 2026 22:14:03 +0000"
   },
   {
-    "title": "Locating the source of a mysterious beep",
-    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 00:10:46 +0000"
+    "published": "Tue, 10 Nov 2026 21:25:03 +0000"
   },
   {
-    "title": "Horible public key tricks",
-    "link": "https://maurycyz.com/projects/badcert/",
+    "title": "Six Math Essentials",
+    "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
     "source": "Hacker News: Front Page",
-    "published": "Tue, 10 Nov 2026 00:07:17 +0000"
+    "published": "Tue, 10 Nov 2026 20:58:44 +0000"
   }
 ]
