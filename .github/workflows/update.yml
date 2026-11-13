@@ -2,8 +2,8 @@ name: Update portal
 
 on:
   schedule:
-    # Every 30 minutes (offset from :00, when GitHub's scheduler is busiest).
-    - cron: "7,37 * * * *"
+    # Once a day at 06:07 UTC (offset from :00, when GitHub's scheduler is busiest).
+    - cron: "7 6 * * *"
   workflow_dispatch:
   push:
     branches: [main, master]
