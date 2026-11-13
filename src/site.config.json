@@ -1,0 +1,268 @@
+{
+  "title": "WIHO'S PORTAL",
+  "pages": {
+    "news": "Wiho's News",
+    "comics": "Wiho's Comics",
+    "bookmarks": "Wiho's Bookmarks"
+  },
+  "updateInterval": "every 30 minutes",
+
+  "news": {
+    "defaultLayout": [
+      ["nos", "nu", "rtvutrecht"],
+      ["cnn", "hackernews", "retro"],
+      ["tweakersnet", "phoronix", "slashdot"]
+    ],
+    "feeds": [
+      {
+        "id": "nos",
+        "title": "NOS Nieuws",
+        "link": "https://nos.nl/",
+        "url": "https://feeds.nos.nl/nosnieuwsalgemeen",
+        "showDescription": false
+      },
+      {
+        "id": "nu",
+        "title": "NU.nl",
+        "link": "https://www.nu.nl/",
+        "url": "https://www.nu.nl/rss/Algemeen"
+      },
+      {
+        "id": "rtvutrecht",
+        "title": "RTV Utrecht",
+        "link": "https://www.rtvutrecht.nl/",
+        "url": "https://www.rtvutrecht.nl/rss/index.xml"
+      },
+      {
+        "id": "cnn",
+        "title": "CNN",
+        "link": "https://edition.cnn.com/",
+        "url": "http://rss.cnn.com/rss/edition.rss"
+      },
+      {
+        "id": "hackernews",
+        "title": "Hacker News",
+        "link": "https://news.ycombinator.com/",
+        "url": "https://news.ycombinator.com/rss",
+        "showDescription": false
+      },
+      {
+        "id": "retro",
+        "title": "Retro Computing",
+        "link": "https://news.ycombinator.com/",
+        "url": "https://hnrss.org/newest?q=retro+OR+retrocomputing+OR+vintage+OR+Amiga+OR+Atari+OR+Commodore+OR+C64+OR+%22ZX+Spectrum%22+OR+Z80+OR+6502+OR+PDP&points=10&count=30",
+        "titleDomain": true,
+        "commentsAsDescription": true
+      },
+      {
+        "id": "tweakersnet",
+        "title": "Tweakers",
+        "link": "https://tweakers.net/",
+        "url": "https://feeds.feedburner.com/tweakers/mixed"
+      },
+      {
+        "id": "phoronix",
+        "title": "Phoronix",
+        "link": "https://www.phoronix.com/",
+        "url": "https://www.phoronix.com/rss.php"
+      },
+      {
+        "id": "slashdot",
+        "title": "Slashdot",
+        "link": "https://slashdot.org/",
+        "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+        "showDescription": false
+      },
+      {
+        "id": "nossport",
+        "title": "NOS Sport",
+        "link": "https://nos.nl/sport",
+        "url": "https://feeds.nos.nl/nossportalgemeen",
+        "showDescription": false
+      },
+      {
+        "id": "bbc",
+        "title": "BBC News",
+        "link": "https://www.bbc.com/news",
+        "url": "https://feeds.bbci.co.uk/news/rss.xml"
+      },
+      {
+        "id": "arstechnica",
+        "title": "Ars Technica",
+        "link": "https://arstechnica.com/",
+        "url": "https://feeds.arstechnica.com/arstechnica/index"
+      },
+      {
+        "id": "theregister",
+        "title": "The Register",
+        "link": "https://www.theregister.com/",
+        "url": "https://www.theregister.com/headlines.atom"
+      },
+      {
+        "id": "hackaday",
+        "title": "Hackaday",
+        "link": "https://hackaday.com/",
+        "url": "https://hackaday.com/blog/feed/"
+      }
+    ]
+  },
+
+  "comics": {
+    "pageSize": 10,
+    "maxHistory": 150,
+    "sources": [
+      {
+        "id": "xkcd",
+        "title": "xkcd",
+        "link": "https://xkcd.com/",
+        "type": "xkcd"
+      },
+      {
+        "id": "smbc",
+        "title": "Saturday Morning Breakfast Cereal",
+        "link": "https://www.smbc-comics.com/",
+        "type": "rss",
+        "url": "https://www.smbc-comics.com/comic/rss"
+      },
+      {
+        "id": "garfield",
+        "title": "Garfield",
+        "link": "https://www.gocomics.com/garfield/",
+        "type": "gocomics",
+        "slug": "garfield"
+      },
+      {
+        "id": "calvin",
+        "title": "Calvin & Hobbes",
+        "link": "https://www.gocomics.com/calvinandhobbes/",
+        "type": "gocomics",
+        "slug": "calvinandhobbes"
+      },
+      {
+        "id": "bizarro",
+        "title": "Bizarro",
+        "link": "https://www.comicskingdom.com/bizarro",
+        "type": "page",
+        "url": "https://comicskingdom.com/bizarro/{yyyy}-{mm}-{dd}",
+        "lookbackDays": 2
+      },
+      {
+        "id": "wulff",
+        "title": "Wulffmorgenthaler",
+        "link": "https://wumo.com/wumo",
+        "type": "page",
+        "url": "https://wumo.com/wumo",
+        "pattern": "/img/wumo/\\d{4}/\\d{2}/wumo[^\"'\\s)]+?\\.(?:png|jpe?g|gif|webp)"
+      },
+      {
+        "id": "foksuk",
+        "title": "Fokke & Sukke",
+        "link": "https://www.nrc.nl/fokke-sukke/",
+        "type": "bluesky",
+        "actor": "fokkesukke.bsky.social"
+      }
+    ]
+  },
+
+  "bookmarks": {
+    "defaultLayout": [
+      ["linux", "webdev", "coding", "tech"],
+      ["culi", "actueel", "info", "misc"]
+    ],
+    "groups": [
+      {
+        "id": "linux",
+        "title": "Linux",
+        "links": [
+          { "title": "Linux weekly news", "url": "https://lwn.net/" },
+          { "title": "Distrowatch", "url": "https://www.distrowatch.com/" },
+          { "title": "Centos FTP", "url": "https://ftp.nluug.nl/os/Linux/distr/CentOS/" },
+          { "title": "Fedora FTP", "url": "https://ftp.nluug.nl/os/Linux/distr/fedora/linux/" },
+          { "title": "Ubuntu FTP", "url": "https://ftp.nluug.nl/os/Linux/distr/ubuntu/" },
+          { "title": "The Linux kernel archive", "url": "https://kernel.org/" },
+          { "title": "Linux Kernel Newbies", "url": "https://kernelnewbies.org/" }
+        ]
+      },
+      {
+        "id": "webdev",
+        "title": "Web development",
+        "links": [
+          { "title": "DOM reference", "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" },
+          { "title": "JavaScript reference", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" },
+          { "title": "Color Scheme Designer", "url": "http://paletton.com/" },
+          { "title": "CSS Gradient Generator", "url": "http://www.colorzilla.com/gradient-editor/" },
+          { "title": "CSSmatic", "url": "http://www.cssmatic.com/" },
+          { "title": "Visual guide to CSS", "url": "http://cssreference.io/" },
+          { "title": "Google Fonts", "url": "https://fonts.google.com" },
+          { "title": "Free Favicon Maker", "url": "https://formito.com/tools/favicon" }
+        ]
+      },
+      {
+        "id": "coding",
+        "title": "Coding",
+        "links": [
+          { "title": "C++ Core guidelines", "url": "https://github.com/isocpp/CppCoreGuidelines" },
+          { "title": "The Compiler Explorer", "url": "https://godbolt.org/" },
+          { "title": "The Rust Cookbook", "url": "https://rust-lang-nursery.github.io/rust-cookbook/" },
+          { "title": "IBM DeveloperWorks Linux zone", "url": "https://developer.ibm.com/technologies/linux/" },
+          { "title": "Sutter’s Mill", "url": "https://herbsutter.com" },
+          { "title": "Dr. Dobb's", "url": "https://www.drdobbs.com" },
+          { "title": "The Daily WTF", "url": "https://thedailywtf.com" },
+          { "title": "Game Source Code Collection", "url": "https://archive.org/details/gamesourcecode" }
+        ]
+      },
+      {
+        "id": "tech",
+        "title": "Tech stuff",
+        "links": [
+          { "title": "Slashdot", "url": "http://slashdot.org/" },
+          { "title": "Tweakers net", "url": "http://www.tweakers.net/" },
+          { "title": "Hackaday", "url": "https://hackaday.com/" },
+          { "title": "Joel on Software", "url": "http://www.joelonsoftware.com/" },
+          { "title": "The 8-Bit Guy", "url": "https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww" },
+          { "title": "The CPU Shack", "url": "http://www.cpushack.com/" },
+          { "title": "mdigi.tools", "url": "https://mdigi.tools/all/" }
+        ]
+      },
+      {
+        "id": "culi",
+        "title": "Culinair",
+        "links": [
+          { "title": "America's Test Kitchen", "url": "https://www.americastestkitchen.com/" },
+          { "title": "Serious Eats", "url": "https://www.seriouseats.com/" },
+          { "title": "The Sourdough Framework", "url": "https://github.com/hendricius/the-sourdough-framework" },
+          { "title": "Science of Cooking", "url": "https://www.scienceofcooking.com/" }
+        ]
+      },
+      {
+        "id": "actueel",
+        "title": "Actueel",
+        "links": [
+          { "title": "Weer: Ventusky", "url": "https://www.ventusky.com/" },
+          { "title": "Wiho's bioscoopagenda", "url": "http://film.wihome.net/" }
+        ]
+      },
+      {
+        "id": "info",
+        "title": "Informatie",
+        "links": [
+          { "title": "Fietsrouteplanner Utrecht", "url": "http://www.fietsersbond.nl/fietsrouteplanner/" },
+          { "title": "NS Reisplanner", "url": "http://www.ns.nl/reisplanner-v2/" },
+          { "title": "Openbaar vervoer reisinformatie", "url": "http://www.9292ov.nl/" }
+        ]
+      },
+      {
+        "id": "misc",
+        "title": "Miscellaneous",
+        "links": [
+          { "title": "Radio Garden", "url": "http://radio.garden/" },
+          { "title": "Radiooooo", "url": "https://radiooooo.com/" },
+          { "title": "The covers project", "url": "http://covers.wiw.org/" },
+          { "title": "The Easter Egg Archive", "url": "http://www.eeggs.com/" },
+          { "title": "ITS Radio", "url": "http://radio.wihome.net/" },
+          { "title": "Official Formula 1 site", "url": "http://www.formula1.com" }
+        ]
+      }
+    ]
+  }
+}
