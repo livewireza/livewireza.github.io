@@ -5,7 +5,7 @@
     "comics": "Comics",
     "bookmarks": "Bookmarks"
   },
-  "updateInterval": "every 30 minutes",
+  "updateInterval": "every day",
 
   "news": {
     "defaultLayout": [
@@ -47,12 +47,10 @@
         "showDescription": false
       },
       {
-        "id": "retro",
-        "title": "Retro Computing",
-        "link": "https://news.ycombinator.com/",
-        "url": "https://hnrss.org/newest?q=retro+OR+retrocomputing+OR+vintage+OR+Amiga+OR+Atari+OR+Commodore+OR+C64+OR+%22ZX+Spectrum%22+OR+Z80+OR+6502+OR+PDP&points=10&count=30",
-        "titleDomain": true,
-        "commentsAsDescription": true
+        "id": "techcrunch",
+        "title": "Tech Crunch",
+        "link": "https://techcrunch.com",
+        "url": "https://techcrunch.com/feed",       
       },
       {
         "id": "tweakersnet",
