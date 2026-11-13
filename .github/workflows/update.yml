@@ -1,0 +1,78 @@
+name: Update portal
+
+on:
+  schedule:
+    # Every 30 minutes (offset from :00, when GitHub's scheduler is busiest).
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  actions: write # only used by the "keep the schedule alive" step
+
+# Never run two deployments at once; let a running one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Set up Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      # Reads the previous history from the live site, fetches every feed and comic
+      # from src/site.config.json and writes src/data/news.json + src/data/comics.json.
+      - name: Fetch news feeds and comics
+        run: node scripts/update-data.mjs
+        env:
+          PREVIOUS_DATA_URL: ${{ steps.pages.outputs.base_url }}/data/
+
+      - name: Build site
+        run: npm run build
+
+      # The raw JSON is published next to index.html so open browser tabs can pick up
+      # fresh data, and so the next run can continue the comic history.
+      - name: Publish data files
+        run: |
+          mkdir -p dist/data
+          cp src/data/news.json src/data/comics.json dist/data/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      # GitHub pauses scheduled workflows in public repos after 60 days without repo
+      # activity. Re-enabling the workflow through the API keeps the timer from expiring.
+      - name: Keep the schedule alive
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/portal.yml/enable" --silent
