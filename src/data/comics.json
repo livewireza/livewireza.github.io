@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-10-04T12:00:00.000Z",
+  "seed": true,
+  "comics": [
+    {
+      "key": "bizarro-1791108016",
+      "source": "bizarro",
+      "image": "https://wihome.net/data/comics/bizarro/bizarro-1791108016.jpg",
+      "link": "https://www.comicskingdom.com/bizarro",
+      "fetchedAt": "2026-10-04T10:00:16.000Z"
+    },
+    {
+      "key": "garfield-1791108010",
+      "source": "garfield",
+      "image": "https://wihome.net/data/comics/garfield/garfield-1791108010.gif",
+      "link": "https://www.gocomics.com/garfield/2026/10/04",
+      "fetchedAt": "2026-10-04T10:00:10.000Z"
+    },
+    {
+      "key": "calvin-1791108007",
+      "source": "calvin",
+      "image": "https://wihome.net/data/comics/calvin/calvin-1791108007.gif",
+      "link": "https://www.gocomics.com/calvinandhobbes/2026/10/04",
+      "fetchedAt": "2026-10-04T10:00:07.000Z"
+    },
+    {
+      "key": "xkcd-1791108002",
+      "source": "xkcd",
+      "image": "https://imgs.xkcd.com/comics/accelerator_energies.png",
+      "title": "Accelerator Energies",
+      "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
+      "link": "https://xkcd.com/3306/",
+      "fetchedAt": "2026-10-04T10:00:02.000Z"
+    },
+    {
+      "key": "wulff-1791093602",
+      "source": "wulff",
+      "image": "https://wumo.com/img/wumo/2026/10/wumo6a7d81aae32021.22880812.jpg",
+      "link": "https://wumo.com/wumo/2026/10/04",
+      "fetchedAt": "2026-10-04T06:00:02.000Z"
+    },
+    {
+      "key": "bizarro-1791050412",
+      "source": "bizarro",
+      "image": "https://wihome.net/data/comics/bizarro/bizarro-1791050412.gif",
+      "link": "https://www.comicskingdom.com/bizarro",
+      "fetchedAt": "2026-10-03T18:00:12.000Z"
+    },
+    {
+      "key": "smbc-1791050408",
+      "source": "smbc",
+      "image": "https://www.smbc-comics.com/comics/1790818643-20261003.png",
+      "title": "Specify",
+      "alt": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
+      "link": "https://www.smbc-comics.com/comic/specify",
+      "fetchedAt": "2026-10-03T18:00:08.000Z"
+    },
+    {
+      "key": "garfield-1791021607",
+      "source": "garfield",
+      "image": "https://wihome.net/data/comics/garfield/garfield-1791021607.gif",
+      "link": "https://www.gocomics.com/garfield/2026/10/03",
+      "fetchedAt": "2026-10-03T10:00:07.000Z"
+    },
+    {
+      "key": "calvin-1791021604",
+      "source": "calvin",
+      "image": "https://wihome.net/data/comics/calvin/calvin-1791021604.gif",
+      "link": "https://www.gocomics.com/calvinandhobbes/2026/10/03",
+      "fetchedAt": "2026-10-03T10:00:04.000Z"
+    },
+    {
+      "key": "foksuk-1791007209",
+      "source": "foksuk",
+      "image": "https://wihome.net/data/comics/foksuk/foksuk-1791007209.jpg",
+      "link": "https://www.nrc.nl/fokke-sukke/",
+      "fetchedAt": "2026-10-03T06:00:09.000Z"
+    }
+  ],
+  "sources": {}
+}
