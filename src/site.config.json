@@ -50,7 +50,8 @@
         "id": "techcrunch",
         "title": "Tech Crunch",
         "link": "https://techcrunch.com",
-        "url": "https://techcrunch.com/feed",       
+        "url": "https://techcrunch.com/feed",
+        "showDescription": false
       },
       {
         "id": "tweakersnet",
