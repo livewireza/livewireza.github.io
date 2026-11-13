@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>News Dashboard</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<h1>Latest News</h1>
-
-<div id="news"></div>
-
-<script src="./app.js?v=3"></script>
-  
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Wiho's Portal — news headlines, daily comics and bookmarks, refreshed by GitHub Actions." />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e00000'/%3E%3Ctext x='16' y='23' font-family='Verdana,Arial,sans-serif' font-size='19' font-weight='bold' fill='white' text-anchor='middle'%3EW%3C/text%3E%3C/svg%3E"
+    />
+    <title>Wiho's News</title>
+  </head>
+  <body data-pagename="news">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

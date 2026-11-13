@@ -1,13 +1,29 @@
 {
-  "name": "news-dashboard",
-  "version": "1.0.0",
-  "description": "Static news dashboard updated with GitHub Actions",
+  "name": "react-vite-tailwind",
+  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "update": "node scripts/fetch-news.js"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0",
-    "node-fetch": "^3.3.2"
+    "clsx": "2.1.1",
+    "fast-xml-parser": "^5.11.2",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "tailwind-merge": "3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "7.3.2",
+    "vite-plugin-singlefile": "2.3.0"
   }
 }
