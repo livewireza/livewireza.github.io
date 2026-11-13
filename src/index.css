@@ -60,7 +60,7 @@ img {
 #pageTitle {
   float: right;
   padding: 4px 8px 2px 0;
-  color: red;
+  color: orange;
   font-weight: bold;
   font-size: 24px;
 }
@@ -128,7 +128,7 @@ table.columns {
 
 .box .title {
   margin: 0 0 4pt 0;
-  color: red;
+  color: orange;
   background: inherit;
   font-size: 10pt;
   font-weight: bold;
@@ -139,7 +139,7 @@ table.columns {
   float: left;
   font-size: 8pt;
   color: white;
-  background: red;
+  background: orange;
 }
 
 .box .title a {
