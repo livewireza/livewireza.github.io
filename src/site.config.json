@@ -11,7 +11,7 @@
     "defaultLayout": [
       ["nos", "nu", "rtvutrecht"],
       ["cnn", "hackernews", "techcrunch"],
-      ["tweakersnet", "phoronix", "slashdot"]
+      ["tweakersnet", "phoronix", "slashdot","hackaday"]
     ],
     "feeds": [
       {
@@ -44,14 +44,14 @@
         "title": "Hacker News",
         "link": "https://news.ycombinator.com/",
         "url": "https://news.ycombinator.com/rss",
-        "showDescription": false
+        "showDescription": true
       },
       {
         "id": "techcrunch",
         "title": "Tech Crunch",
         "link": "https://techcrunch.com",
         "url": "https://techcrunch.com/feed",
-        "showDescription": false
+        "showDescription": true
       },
       {
         "id": "tweakersnet",
