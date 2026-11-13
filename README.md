@@ -1,6 +1,6 @@
-# Wiho's Portal — GitHub Actions edition
+# News Portal — GitHub Actions edition
 
-A replica of [wihome.net](https://wihome.net) ("WIHO'S PORTAL") that needs **no server**: a
+A news portal that needs **no server**: a
 scheduled GitHub Actions workflow collects the news feeds and daily comics, builds a static
 React site and publishes it on GitHub Pages.
 
@@ -116,4 +116,4 @@ npm run build                  # single-file build in dist/index.html
   whose image disappears are hidden automatically.
 
 All headlines, articles and comics belong to their respective publishers. The layout and features are
-modelled on Wiho's personal portal at wihome.net.
+modelled on Wiho's personal portal.
