@@ -10,7 +10,7 @@
   "news": {
     "defaultLayout": [
       ["nos", "nu", "rtvutrecht"],
-      ["cnn", "hackernews", "retro"],
+      ["cnn", "hackernews", "techcrunch"],
       ["tweakersnet", "phoronix", "slashdot"]
     ],
     "feeds": [
