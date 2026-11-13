@@ -1,9 +1,9 @@
 {
-  "title": "WIHO'S PORTAL",
+  "title": "NEWS PORTAL",
   "pages": {
-    "news": "Wiho's News",
-    "comics": "Wiho's Comics",
-    "bookmarks": "Wiho's Bookmarks"
+    "news": "News",
+    "comics": "Comics",
+    "bookmarks": "Bookmarks"
   },
   "updateInterval": "every 30 minutes",
 
